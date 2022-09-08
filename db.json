@@ -35,6 +35,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Apple Pie",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "Soy Milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "American Cheese",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 17
     }
   ]
 }
